@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Peter</h1>
 
 ###
 
-<p align="center">A passionate fullstack JS developer from France</p>
+<h3 align="center">A passionate fullstack JS developer from France</h3>
 
 ###
 
