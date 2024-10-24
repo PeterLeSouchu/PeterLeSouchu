@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">A passionate fullstack JS developer from France</h3>
+<h3 align="center">A passionate web developer from France</h3>
 
 ###
 
