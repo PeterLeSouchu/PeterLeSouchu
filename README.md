@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Young developer with a passion for new technologies, programming, and AI. Eager to learn 📚, I constantly seek to expand my skills and stay on top of the latest innovations. <br><br>I’m developing a web application that gathers various mini-games and also work on NextJs projects with public API.</p>
+<p align="left">Young developer with a passion for new technologies, programming, and AI. Eager to learn 📚, I constantly seek to expand my skills and stay on top of the latest innovations. <br><br>I’m working on a react/tailwind template script and  also  developping a web game.</p>
 
 ###
 
