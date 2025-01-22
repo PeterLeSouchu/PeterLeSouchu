@@ -47,19 +47,6 @@
 
 ###
 
-<h2 align="left">I'm learning</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-    <img width="5" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-
-</div>
-
-###
-
 <p align="left"></p>
 
 ###
