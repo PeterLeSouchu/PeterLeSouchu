@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">A young web developer from France with a passion for new technologies, programming, and AI. Eager to learn 📚, I constantly seek to expand my skills and stay on top of the latest innovations. </h3>
+<p align="center">A young web developer from France with a passion for new technologies, programming, and AI. Eager to learn 📚, I constantly seek to expand my skills and stay on top of the latest innovations. </p>
 
 ###
 
