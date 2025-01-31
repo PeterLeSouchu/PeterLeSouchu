@@ -3,15 +3,7 @@
 
 ###
 
-<h3 align="center">A passionate web developer from France</h3>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Young developer with a passion for new technologies, programming, and AI. Eager to learn 📚, I constantly seek to expand my skills and stay on top of the latest innovations. <br><br>I’m working on Next.js web application, allowing you to manage your deposits.</p>
+<h3 align="center">A young web developer from France with a passion for new technologies, programming, and AI. Eager to learn 📚, I constantly seek to expand my skills and stay on top of the latest innovations. </h3>
 
 ###
 
